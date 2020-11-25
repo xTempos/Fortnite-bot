@@ -1,2 +1,0 @@
-# Fortnite-bot
-Fortnite Bot
