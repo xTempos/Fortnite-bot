@@ -1,4 +1,4 @@
-fortnitepy==2.3.1
+fortnitepy==LastVersion
 aiohttp
 colorama
 BenBotAsync
